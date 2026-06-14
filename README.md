@@ -105,7 +105,7 @@ java LoginFrame
 ## 📸 Screenshots
 
 ### Login Screen
-![Login](parking-system/screenshots/login page.png)
+![Login](parking-system/screenshots/login.png)
 
 ### Dashboard
 ![Dashboard](parking-system/screenshots/dashboard.png)
