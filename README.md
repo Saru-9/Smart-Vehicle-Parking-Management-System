@@ -108,8 +108,6 @@ java LoginFrame
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
-### Book Slot
-![Book Slot](screenshots/Book%20Slot.png)
 
 ## 🎯 Future Enhancements
 
